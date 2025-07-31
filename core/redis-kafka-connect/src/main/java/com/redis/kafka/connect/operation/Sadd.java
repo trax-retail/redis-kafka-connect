@@ -6,7 +6,6 @@ import io.lettuce.core.api.async.BaseRedisAsyncCommands;
 import io.lettuce.core.api.async.RedisSetAsyncCommands;
 import io.lettuce.core.api.async.RedisKeyAsyncCommands;
 
-import java.util.Map;
 import java.util.function.Function;
 
 import org.apache.kafka.connect.sink.SinkRecord;
